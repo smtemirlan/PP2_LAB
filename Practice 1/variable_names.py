@@ -1,0 +1,12 @@
+myvar="Adina"
+my_var="Beibarys"
+_my_var="Aknur"
+myVar="Yeldar"
+MYVAR="Bibarys"
+myvar2="Rakhym"
+print(MYVAR)
+print(myvar)
+print(myVar)
+print(_my_var)
+print(myvar2)
+print(my_var)

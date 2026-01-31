@@ -1,3 +1,4 @@
+#example 2
 fruit=["apple","banana","cherry"]
 x,y,z=fruit
 print(x)

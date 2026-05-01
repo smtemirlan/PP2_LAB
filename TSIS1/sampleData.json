@@ -1,0 +1,30 @@
+[
+    {
+        "username": "Alina",
+        "email": "alina@gmail.com",
+        "birthday": "1990-05-14",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77001112233",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77001110000",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "username": "Bober",
+        "email": "bober@work.kz",
+        "birthday": "1985-11-30",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77009998877",
+                "type": "work"
+            }
+        ]
+    }
+]
